@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0F172A"/>
+  <!-- Bug body -->
+  <ellipse cx="32" cy="38" rx="13" ry="11" fill="#1a1a2e"/>
+  <!-- Green shell -->
+  <path d="M20 38 Q20 24 32 22 Q44 24 44 38 Q44 48 32 50 Q20 48 20 38Z" fill="#22C55E"/>
+  <!-- Shell spots -->
+  <circle cx="26" cy="38" r="3.5" fill="#15803D"/>
+  <circle cx="38" cy="38" r="3.5" fill="#15803D"/>
+  <!-- Bug head -->
+  <circle cx="32" cy="20" r="9" fill="#1a1a2e"/>
+  <!-- Eyes -->
+  <circle cx="28.5" cy="19" r="3.5" fill="white"/>
+  <circle cx="35.5" cy="19" r="3.5" fill="white"/>
+  <circle cx="29" cy="19.5" r="1.8" fill="#111"/>
+  <circle cx="36" cy="19.5" r="1.8" fill="#111"/>
+  <!-- Wink left eye (closed) -->
+  <path d="M26 19 Q28.5 17 31 19" stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Antennae -->
+  <line x1="29" y1="12" x2="24" y2="6" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="23" cy="5" r="2.5" fill="#22C55E"/>
+  <line x1="35" y1="12" x2="40" y2="6" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="41" cy="5" r="2.5" fill="#22C55E"/>
+</svg>
